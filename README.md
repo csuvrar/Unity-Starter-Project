@@ -1,7 +1,9 @@
 # Unity-Starter-Project
-This is a Unity beginner project for new members to import and learn about Unity
+Welcome all. This is the Unity introduction for the CSU AR/VR Club. The purpose of this is to familarize you with Unity, the currently prefered VR/AR platform with native support for multiple headsets. Over the course of these you will become able to install Unity, add assets, manipulate enviroments, and - should you chosse to - script using C#. After learing these basics you will have the knowlege base and skills required to expand in Unity development. The last piece will be a guide on how to port your program to an Oculus and some basics for the tools that the Oculus library gives you on Unity.
 
-# Projects
+We hope you enjoy and if you are finding this for the first time and are interested, Meetings are every Friday 5pm - 6pm in the CS Building room 130 or you can reach out to one of our officers here. //Hyperlink About Us
+
+# Projects //ADD LEVELS
 There is a list of projects organized by level of difficulty for every new members to try and dip their toe into Unity, or pique their interests.
 ## Level 1: Introduction to the Unity UI and scripting (Unity version 2020.3.21f1 REQUIRE)
 This is a beginning project for everyone who's new to Unity and would like to see what the game engine is like
@@ -10,7 +12,7 @@ This is a beginning project for everyone who's new to Unity and would like to se
   - Player can drive the car into the boxes using WASD keys
 
 
-# How to download Unity files
+# How to download Unity files //ADD PICTURES
 Press the downward arrow on the green "Code" button to pull up the tab with "Open with GitHub Desktop" and "Download ZIP"
 
 Hit the "Download ZIP" button to download this repository and extract the ZIP file
