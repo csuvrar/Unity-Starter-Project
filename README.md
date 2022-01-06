@@ -39,7 +39,7 @@ Hit the "Download ZIP" button to download this repository and extract the ZIP fi
 
 If you have "Unity Hub" installed, it should look like this
 
-
+![unity-hub-screen](./images/unity_hub.png)
 
 Then follow the following steps to open the folder from "Unity Hub":
 - Click the "Add" button
