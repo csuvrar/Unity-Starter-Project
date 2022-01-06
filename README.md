@@ -3,14 +3,23 @@ Welcome all. This is the Unity introduction for the CSU AR/VR Club. The purpose 
 
 We hope you enjoy and if you are finding this for the first time and are interested, Meetings are every Friday 5pm - 6pm in the CS Building room 130 or you can reach out to one of our officers here. //Hyperlink About Us
 
-# Projects //ADD LEVELS
-There is a list of projects organized by level of difficulty for every new members to try and dip their toe into Unity, or pique their interests.
+# Projects
+Included in this repository are three project files organized by level of difficulty for every new members to try and dip their toe into Unity, or pique their personal interests. All you have to do is download the repository, as a zip file, from the green "Code" tab to have access to the Unity files
 ## Level 1: Introduction to the Unity UI and scripting (Unity version 2020.3.21f1 REQUIRE)
 This is a beginning project for everyone who's new to Unity and would like to see what the game engine is like
 - There are already premade assets, donwnloaded from the Unity asset store for player to grab and implement them in the world
 - Scripting has already been done to control the car with collision mechanics
   - Player can drive the car into the boxes using WASD keys
-
+## Level 2: Apply what you learned (Unity version 2020.3.21f1 REQUIRE)
+This level will require you to apply what you've learned in the previous level to fix a level
+- This project file will be the same as that from Level 1 but will have an additional file called "Challenge 1"
+- "Challenge 1" will have a similar script and collision mechanic as the previous but its code is broken and wrong
+  - This includes bad camera angle, poor movement and bad control
+- Your job is to fix the flaws in the mechanics and control to get the level into a playable state
+## Level 3: Unity challenge, create your own level (Unity version 2020.3.21f1 REQUIRE)
+This last level repisotory is for those who would want to expand on what they know to create their own level in the FPS genre
+- This project file is different from the first two in that it is a game geared toward the First Person Shooter genre
+- All there is needed to do is for you to create your own level, add movement to the enemy and whatever you wish to create your own FPS level
 
 # How to download Unity files //ADD PICTURES
 Press the downward arrow on the green "Code" button to pull up the tab with "Open with GitHub Desktop" and "Download ZIP"
