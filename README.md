@@ -6,7 +6,10 @@ We hope you enjoy and if you are finding this for the first time and are interes
 # Projects
 Included in this repository are three project files organized by level of difficulty for every new members to try and dip their toe into Unity, or pique their personal interests. All you have to do is download the repository, as a zip file, from the green "Code" tab to have access to the Unity files
 ## Level 1: Introduction to the Unity UI and scripting (Unity version 2020.3.21f1 REQUIRE)
-This is a beginning project for everyone who's new to Unity and would like to see what the game engine is like
+This is a beginning project for everyone who's new to Unity and would like to see what the game engine is like. The image below should be what you see.
+
+![add-level-1-screenshot](./images/leve1_screen.png)
+
 - There are already premade assets, donwnloaded from the Unity asset store for player to grab and implement them in the world
 - Scripting has already been done to control the car with collision mechanics
   - Player can drive the car into the boxes using WASD keys
