@@ -32,18 +32,23 @@ This last level repisotory is for those who would want to expand on what they kn
 - This project file is different from the first two in that it is a game geared toward the First Person Shooter genre
 - All there is needed to do is for you to create your own level, add movement to the enemy and whatever you wish to create your own FPS level
 
-# How to download Unity files //ADD PICTURES
+# How to download Unity files
 Press the downward arrow on the green "Code" button to pull up the tab with "Open with GitHub Desktop" and "Download ZIP"
 
 Hit the "Download ZIP" button to download this repository and extract the ZIP file
 
-If you have "Unity Hub" installed, simply:
+If you have "Unity Hub" installed, it should look like this
+
+
+
+Then follow the following steps to open the folder from "Unity Hub":
 - Click the "Add" button
 - Navigate to the folder which store the extracted ZIP file
+- Click on the folder you want to open to highlight
 - Press select folder
 
 Otherwise you have Unity installed but not "Unity Hub", WITH THE CORRECT VERSION OF THE FLE
 - Navigate to "Unity-Starter-Project > Level 1 - Beginner > Assets > Scenes"
-- Click on "Unit 1" to open the Unity file
+- Click on "Unit 1.unity" to open the Unity file
 
 
