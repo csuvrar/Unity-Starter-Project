@@ -33,6 +33,8 @@ This last level repisotory is for those who would want to expand on what they kn
 
 - This project file is different from the first two in that it is a game geared toward the First Person Shooter genre
 - All there is needed to do is for you to create your own level, add movement to the enemy and whatever you wish to create your own FPS level
+- Unity also provides a set of instruction on getting started on your FPS game
+  - [Click this link](https://learn.unity.com/project/creator-kit-fps) and follow its instructions
 
 # How to download Unity files
 Press the downward arrow on the green "Code" button to pull up the tab with "Open with GitHub Desktop" and "Download ZIP"
