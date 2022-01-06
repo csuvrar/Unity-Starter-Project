@@ -27,7 +27,7 @@ This level will require you to apply what you've learned in the previous level t
 ## Level 3: Unity challenge, create your own level (Unity version 2020.3.21f1 REQUIRE)
 This last level repisotory is for those who would want to expand on what they know to create their own level in the FPS genre. Simply open the file in the "Unity hub" and you should see something similar to the image below.
 
-
+![level-3-project](./images/level3_screen.png)
 
 - This project file is different from the first two in that it is a game geared toward the First Person Shooter genre
 - All there is needed to do is for you to create your own level, add movement to the enemy and whatever you wish to create your own FPS level
