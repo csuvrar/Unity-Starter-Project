@@ -13,6 +13,8 @@ This is a beginning project for everyone who's new to Unity and would like to se
 - There are already premade assets, donwnloaded from the Unity asset store for player to grab and implement them in the world
 - Scripting has already been done to control the car with collision mechanics
   - Player can drive the car into the boxes using WASD keys
+- For more comprehensive instruction on how to get started
+  - [Click the link](https://learn.unity.com/project/unit-1-driving-simulation?uv=2020.3&courseId=5cf96c41edbc2a2ca6e8810f) and follow the instruction step by step
 ## Level 2: Apply what you learned (Unity version 2020.3.21f1 REQUIRE)
 This level will require you to apply what you've learned in the previous level to fix a level. Click on the "Challenge 1" folder then the "Challenge 1" UNITY file within that folder to open up the scene
 
